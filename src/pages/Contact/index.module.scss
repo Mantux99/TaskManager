@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+    align-content: stretch;
+    width: 50%;
+    margin-left: 30%;
+}
+
+.button{
+    width: 20%;
+    margin: 2% 0 0 40%;
+}
+
+input{
+    margin: 0 0 2% 0;
+}
